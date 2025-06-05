@@ -1,0 +1,61 @@
+# ZKAgent Professional - GitIgnore
+# Desenvolvido por: AiNexus Tecnologia
+# Autor: Richardson Rodrigues
+
+# Arquivos compilados Java
+*.class
+*.jar
+/bin/
+/build/
+/target/
+
+# Logs e dados temporários
+*.log
+/logs/
+*.tmp
+*.temp
+
+# Arquivos de configuração local
+*.properties.local
+*.config.local
+
+# Diretórios de IDE
+/.idea/
+/.vscode/
+/.eclipse/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de backup
+*.bak
+*.backup
+*.old
+
+# Arquivos específicos do Windows
+*.lnk
+
+# Bibliotecas baixadas automaticamente
+/lib/
+nssm.exe
+
+# Arquivos de build temporários
+compile_error.log
+*.zip
+
+# Configurações de usuário específicas
+user_config.properties
+
+# Dados sensíveis
+*.key
+*.cert
+*.p12
+
+# Cache
+/.cache/
+/temp/ 
