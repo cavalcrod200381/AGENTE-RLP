@@ -210,5 +210,5 @@ uninstall.bat
 
 ---
 
-**Desenvolvido com ❤️ por AiNexus Tecnologia - Richardson Rodrigues**  
-*Sistema Profissional para Empresas - Dados Reais Sempre* 
+**Desenvolvido por AiNexus Tecnologia - Richardson Rodrigues**  
+*Sistema Profissional para Empresas* 
