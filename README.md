@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-Enterprise-green)](https://github.com/cavalcrod200381/AGENTE-RLP)
 [![Version](https://img.shields.io/badge/Version-1.0-blue)](https://github.com/cavalcrod200381/AGENTE-RLP)
 
-> **Sistema Biométrico Profissional para Hardware ZK4500**  
+> **Agente do Sistema Biométrico ZK4500**  
 > Desenvolvido por **AiNexus Tecnologia** - Richardson Rodrigues
 
 ## 📋 Sobre o Projeto
