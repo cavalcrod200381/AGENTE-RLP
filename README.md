@@ -10,7 +10,7 @@
 
 ## 📋 Sobre o Projeto
 
-O **ZKAgent Professional** é um sistema completo de leitura biométrica desenvolvido especificamente para hardware **ZK4500**. Oferece uma **API REST robusta** e **interface system tray** para integração empresarial.
+O **ZKAgent Professional** é um **agente de leitura biométrica** desenvolvido especificamente para o hardware **ZK4500**. Ele oferece uma **API REST robusta** e uma **interface na system tray**, permitindo **integrações empresariais** de forma simples e eficiente.
 
 ### ✨ Características Principais
 
@@ -33,7 +33,7 @@ install.bat
 ```
 
 **Vantagens:**
-- ✅ **Sem necessidade de internet**
+- ✅ **Sem necessidade de internet (A partir da segunda instalação.)**
 - ✅ **Instalação mais rápida** (~2 minutos)
 - ✅ **Sempre funciona** independente de conexão
 - ✅ **Dependências versionadas** e testadas
