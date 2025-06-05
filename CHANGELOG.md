@@ -2,7 +2,6 @@
 
 **Desenvolvido por:** AiNexus Tecnologia  
 **Autor:** Richardson Rodrigues  
-**GitHub:** [https://github.com/cavalcrod200381/AGENTE-RLP.git](https://github.com/cavalcrod200381/AGENTE-RLP.git)
 
 Todas as mudanças notáveis deste projeto serão documentadas neste arquivo.
 
@@ -70,8 +69,7 @@ zkagent/
 ├── install.bat                      # Instalador modular
 ├── uninstall-professional.bat       # Desinstalador
 ├── README.md                        # Documentação
-├── CHANGELOG.md                     # Este arquivo
-└── log_chat_agente.md               # Log de desenvolvimento
+└── lCHANGELOG.md                    # Este arquivo
 ```
 
 ### 🎯 **Funcionalidades v1.0**
